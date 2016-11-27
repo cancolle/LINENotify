@@ -1,0 +1,2 @@
+exportPattern("^[[:alpha:]]+")
+importFrom(httr,POST, add_headers)
